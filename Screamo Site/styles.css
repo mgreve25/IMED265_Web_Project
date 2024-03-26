@@ -2,7 +2,7 @@ nav {
 	background-color: black;
 	overflow: hidden;
 	margin: 8px 8px;
-	font-family: Mom´sTypewriterActual;
+	font-family: Oscan;
 }
 nav a {
 	float: left;
@@ -22,11 +22,11 @@ body {
 
 }
 h1 {
-	font-family: Mom´sTypewriterActual;
+	font-family: Oscan;
 	padding-top: 30px;
 }
 h2 {
-	font-family: Mom´sTypewriterActual;
+	font-family: Oscan;
 	font-style: italic;
 	padding-top: 30px;
 }
